@@ -1,7 +1,7 @@
-# <center>PROTOCORE</center>
-<center><img src="protocore.png" width="256"></center>  
+# <p align="center">PROTOCORE</p>
+<p align="center"><img src="protocore.png" width="256"></p>  
 
-<center>Protocore is an awesome new prototyping tool, to help you rapidly prototype your web sites, apps & projects. We hope you'll enjoy it as much is we do.</center>  
+<p align="center">Protocore is an awesome new prototyping tool, to help you rapidly prototype your web sites, apps & projects. We hope you'll enjoy it as much is we do.</p>  
 
 ## 
 
